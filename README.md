@@ -30,19 +30,3 @@ Excel for data management
 
 
 
-🤔 **I’m looking for help with:**
-Model evaluation techniques, feature engineering, and improving performance in Machine Learning models.
-
-💬 **Ask me about:**
-Data preprocessing, EDA (Exploratory Data Analysis), basic ML concepts, and Python for Data Science.
-
-📫 **How to reach me:**
-You can connect with me on [LinkedIn](#) or reach out via email at **[prernapatwa260@email.com](mailto:prernapatwa260@email.com)**.
-
-😄 **Pronouns:** She/Her
-
-⚡ **Fun fact:**
-I love turning messy data into meaningful stories and visualizations! 📊
-Also, I'm a curious learner and a fan of clean code and creative plots 🎨.
-
--->
